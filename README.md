@@ -1,5 +1,5 @@
-- ✅ **Funcionalidade principal**: [ex: "Analisa imagens de respostas manuscritas e compara com um gabarito"].  
+- ✅ **Funcionalidade principal**: .  
 - ✨ **Tecnologias usadas**: Google Gemini API, Python, Streamlit.  
-- 🎯 **Objetivo**: [ex: "Automatizar a correção de exercícios para educadores"].  
+- 🎯 **Objetivo**: .  
 
 ## 📦 Estrutura do Projeto  
